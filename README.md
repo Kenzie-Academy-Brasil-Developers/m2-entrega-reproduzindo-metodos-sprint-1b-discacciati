@@ -1,4 +1,4 @@
-# Entrega: Reproduzindo Métodos de Array e String
+# Projeto: Reproduzindo Métodos de Array e String
 
 O JavaScript fornece vários "métodos de iteração" baseados no mesmo tipo de padrão de callback. Essencialmente, eles são loops prontos, com alguns comportamentos adicionados para ter um pouco de variação do padrão.
 
